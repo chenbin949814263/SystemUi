@@ -1,4 +1,4 @@
-package com.example.a94981.views.widgets.systemui;
+package com.systemui.views.widgets;
 
 import android.app.Activity;
 import android.content.Context;

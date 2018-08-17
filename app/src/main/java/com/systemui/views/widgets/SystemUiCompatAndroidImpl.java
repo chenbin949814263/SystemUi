@@ -1,4 +1,4 @@
-package com.example.a94981.views.widgets.systemui;
+package com.systemui.views.widgets;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.hunliji.hljcommonlibrary.utils.CommonUtil;
+import com.systemui.utils.CommonUtil;
 
 /**
  * 通用android系统
